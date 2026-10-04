@@ -1,0 +1,14 @@
+## Interface: 30300
+## Title: BuffScribe
+## Notes: Records every buff that lands on you during a target-dummy session, then builds a WeakAuras snapshot tracker from what it saw.
+## Author: fiftybengt + Claude Code
+## Version: 1.0
+## SavedVariables: BuffScribeDB
+## OptionalDeps: WeakAuras
+## X-Category: Combat
+
+Core.lua
+Classify.lua
+Recorder.lua
+Exporter.lua
+UI.lua
